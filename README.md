@@ -9,4 +9,4 @@ I'm Italo Monte, studying computer engineering and I like to solve everyday prob
 ### 📊 GitHub Stats:
 [![Italo Monte's GitHub stats](https://github-readme-stats.vercel.app/api?username=italomonte)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomonte&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomonte&layout=compact&theme=transparent)
