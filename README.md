@@ -1,12 +1,12 @@
-### Hi there 👋
+### Olá 👋
 
-I'm Italo Monte, studying computer engineering and I like to solve everyday problems using programming
+:milky_way: Sou Ítalo Monte e gosto de resolver problemas do dia a dia com programação!
 
-### 💻 Tech Stack
+### 💻 Tecnologias
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-### 📊 GitHub Stats:
+### 📊 Status:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomonte&layout=compact&theme=radical) 
