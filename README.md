@@ -1,6 +1,6 @@
 ### Olá 👋
 
-:milky_way: Sou Ítalo Monte e gosto de resolver problemas do dia a dia com programação!<br/>
+:milky_way: Sou Ítalo Monte e gosto de resolver problemas do dia a dia com programação!<br/><br/>
 📱 Sou desenvolvedor mobile, atualmente desenvolvo para iOS, watchOS, visionOS e outros S.Os da Apple. 
 
 ### 💻 Tecnologias
