@@ -1,9 +1,9 @@
 ### Olá 👋
 
-:milky_way: Sou Ítalo Monte e gosto de resolver problemas do dia a dia com programação!<br/><br/>
-📱 Sou desenvolvedor mobile, atualmente desenvolvo para iOS. Além disso tenho experiência em desevolvimento Web Frontend e Backend 
+🌌 Hi, my name is Italo Monte, and I love solving real-world problems through programming!<br/><br/>
+📱 I am a mobile developer, currently specializing in iOS development. Additionally, I have experience in Web Frontend and Backend development. 
 
-### 💻 Tecnologias
+### 💻 Stacks
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
