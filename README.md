@@ -1,7 +1,7 @@
 ### Olá 👋
 
-🌌 Hi, my name is Italo Monte, and I love solving real-world problems through programming!<br/><br/>
-📱 I am a mobile developer, currently specializing in iOS development. Additionally, I have experience in Web Backend development. 
+Hi, my name is Italo Monte, and I love solving real-world problems through programming!<br/><br/>
+I am a mobile developer, currently specializing in iOS development. Additionally, I have experience in Web Backend development. 
 
 ### 💻 Stacks
 
