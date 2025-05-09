@@ -26,4 +26,5 @@
   <img src="https://github.com/user-attachments/assets/d7137485-460d-4e19-8b97-9c440643c194" alt="Stommy Icon" width="120"/>
 </a>
 
-> Clique no ícone acima para acessar o repositório do **Stommy**, um app gamificado para pessoas com gastrite e refluxo.
+
+> Clique nos ícones acima para acessar o repositório do projeto.
