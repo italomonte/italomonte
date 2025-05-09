@@ -19,3 +19,8 @@
 ### 📊 Status:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomonte&layout=compact&theme=radical) !
+
+### 📱 Meus Projetos
+
+[![Stommy](https://github.com/user-attachments/assets/d7137485-460d-4e19-8b97-9c440643c194)](https://github.com/italomonte/Stommy)
+> Clique no ícone acima para acessar o repositório do **Stommy**, um app gamificado para pessoas com gastrite e refluxo.
