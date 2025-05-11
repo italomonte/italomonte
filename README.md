@@ -18,7 +18,7 @@ I am a mobile developer, currently specializing in iOS development. Additionally
 
 ### 📊 Status:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomonte&layout=compact&theme=radical) !
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomonte&layout=compact&theme=radical) 
 
 ### 📱 Meus Projetos
 > Clique nos ícones acima para acessar o repositório do projeto.
