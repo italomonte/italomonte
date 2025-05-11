@@ -21,7 +21,7 @@ I am a mobile developer, currently specializing in iOS development. Additionally
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomonte&layout=compact&theme=radical) 
 
 ### 📱 Meus Projetos
-> Clique nos ícones acima para acessar o repositório do projeto.
+> Clique nos ícones abaixo para acessar o repositório do projeto.
 
 <a href="https://github.com/italomonte/Stommy">
   <img src="https://github.com/user-attachments/assets/d7137485-460d-4e19-8b97-9c440643c194" alt="Stommy Icon" width="120"/>
