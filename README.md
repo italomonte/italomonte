@@ -23,13 +23,12 @@ I am a mobile developer, currently specializing in iOS development. Additionally
 ### 📱 Meus Projetos
 > Clique nos ícones abaixo para acessar o repositório do projeto.
 
-<a style="text-decoration: none;" href="https://github.com/italomonte/Stommy">
+<a style="text-decoration: none;" href="https://github.com/italomonte/Stommy" tabindex="-1">
   <img src="https://github.com/user-attachments/assets/d7137485-460d-4e19-8b97-9c440643c194" alt="Stommy Icon" width="120"/>
 </a>
-<a style="text-decoration: none;" href="https://github.com/italomonte/EasyTalk">
+<a style="text-decoration: none;" href="https://github.com/italomonte/EasyTalk" tabindex="-1">
   <img src="https://github.com/user-attachments/assets/b6c1043c-1216-429e-a0cf-089e458aab11" alt="EasyTalk Icon" width="120"/>
 </a>
-
 
 
 
