@@ -27,7 +27,7 @@ I am a mobile developer, currently specializing in iOS development. Additionally
   <img src="https://github.com/user-attachments/assets/17833130-53ba-48ac-8e51-f44d98302f6a" alt="Stommy Icon" width="120"/>
 </a>
 <a style="text-decoration: none;" href="https://github.com/italomonte/MaisAcesso" tabindex="-1">
-  <img src="https://github.com/user-attachments/assets/f22220d7-e83e-4b2c-8ee5-a7b656d02160" alt="Stommy Icon" width="120"/>
+  <img src="https://github.com/user-attachments/assets/7debeb19-d651-41a0-8bd6-09eb8a38cb5a" alt="Stommy Icon" width="120"/>
 </a>
 <a style="text-decoration: none;" href="https://github.com/italomonte/Stommy" tabindex="-1">
   <img src="https://github.com/user-attachments/assets/d7137485-460d-4e19-8b97-9c440643c194" alt="Stommy Icon" width="120"/>
