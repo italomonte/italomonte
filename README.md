@@ -23,7 +23,7 @@ I am a mobile developer, currently specializing in iOS development. Additionally
 ### 📱 Meus Projetos
 > Clique nos ícones abaixo para acessar o repositório do projeto.
 
-<a style="text-decoration: none;" href="https://github.com/italomonte/Stommy" tabindex="-1">
+<a style="text-decoration: none;" href="https://github.com/italomonte/Sprouties" tabindex="-1">
   <img src="https://github.com/user-attachments/assets/17833130-53ba-48ac-8e51-f44d98302f6a" alt="Stommy Icon" width="120"/>
 </a>
 <a style="text-decoration: none;" href="https://github.com/italomonte/Stommy" tabindex="-1">
