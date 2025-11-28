@@ -26,7 +26,7 @@ I am a mobile developer, currently specializing in iOS development. Additionally
 <a style="text-decoration: none;" href="https://github.com/italomonte/Sprouties" tabindex="-1">
   <img width="120" height="120" alt="qab-bg" src="https://github.com/user-attachments/assets/d346bca4-3148-4721-981c-79c2862b9301" />
 </a>
-<a style="text-decoration: none;" href="https://github.com/italomonte/Sprouties" tabindex="-1">
+<a style="text-decoration: none;" href="https://github.com/italomonte/Polemize-Game" tabindex="-1">
   <img width="120" height="120" alt="polemize" src="https://github.com/user-attachments/assets/4539f259-a7c0-47e0-9cee-efd1bafc903d" />
 </a>
 <a style="text-decoration: none;" href="https://github.com/italomonte/Sprouties" tabindex="-1">
