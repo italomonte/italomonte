@@ -24,10 +24,10 @@ I am a mobile developer, currently specializing in iOS development. Additionally
 > Clique nos ícones abaixo para acessar o repositório do projeto.
 
 <a style="text-decoration: none;" href="https://github.com/italomonte/Sprouties" tabindex="-1">
-  <img width="470" height="470" alt="qab" src="https://github.com/user-attachments/assets/679b9abb-8395-4314-9125-d43f4ec6d725" />
+  <img width="120" height="120" alt="qab" src="https://github.com/user-attachments/assets/679b9abb-8395-4314-9125-d43f4ec6d725" />
 </a>
 <a style="text-decoration: none;" href="https://github.com/italomonte/Sprouties" tabindex="-1">
-  <img width="1080" height="1080" alt="polemize" src="https://github.com/user-attachments/assets/4539f259-a7c0-47e0-9cee-efd1bafc903d" />
+  <img width="120" height="120" alt="polemize" src="https://github.com/user-attachments/assets/4539f259-a7c0-47e0-9cee-efd1bafc903d" />
 </a>
 <a style="text-decoration: none;" href="https://github.com/italomonte/Sprouties" tabindex="-1">
   <img src="https://github.com/user-attachments/assets/17833130-53ba-48ac-8e51-f44d98302f6a" alt="Stommy Icon" width="120"/>
